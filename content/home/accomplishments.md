@@ -26,7 +26,7 @@ item:
     organization_url: https://www.datacamp.com
     title: "Object-Oriented Programming in R: S3 and R6 Course"
     url: ""
-widget_id: noooooo
+widget_id: 我的冗余
 headless: true
 weight: 50
 title: Accomplish&shy;ments
