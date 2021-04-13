@@ -6,11 +6,11 @@ title: 王泊远
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate of Automation Pattern Recognition and Intelligent System  
+role: 本科 自动化，模式识别与智能系统方向
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Beihang University
+- name: 北京航空航天大学
   url: http://www.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
